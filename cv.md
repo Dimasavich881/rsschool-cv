@@ -7,3 +7,4 @@
 ## I'am student of the BNTU
 # Skills
 * HTML
+* CSS
